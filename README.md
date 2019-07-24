@@ -28,3 +28,4 @@ composer require bijondev/ratesapi
         echo "<pre>";
         print_r($result);
 ```
+This is using api https://ratesapi.io/documentation/
