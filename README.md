@@ -1,10 +1,10 @@
 # RatesApi
 
-Install
+## Install
 composer require bijondev/contact
 
 
-##To gate Current rate
+## To gate Current rate
 ```
         $getrate=new Ratesapi();
         $pram=array(
@@ -16,7 +16,7 @@ composer require bijondev/contact
         echo "<pre>";
         print_r($result);
 ```
-##Gate rate By Date
+## Gate rate By Date
 ```
         $getrate=new Ratesapi();
         $pram=array(
