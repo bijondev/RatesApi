@@ -1,7 +1,7 @@
 # RatesApi
 
 ## Install
-composer require bijondev/RatesAPI
+composer require bijondev/ratesapi
 
 
 ## To gate Current rate
