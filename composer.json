@@ -1,6 +1,6 @@
 {
     "name": "bijondev/ratesapi",
-    "description": "this will convert your rate to any cutrrency",
+    "description": "this will convert your cutrrency to any cutrrency",
     "type": "library",
     "require": {
         "guzzlehttp/guzzle": "~6.0"
