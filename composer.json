@@ -1,0 +1,21 @@
+{
+    "name": "bijondev/ratesapi",
+    "description": "this will convert your rate to any cutrrency",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bijon krishna bairagi",
+            "email": "bijon.bairagi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Bijondev\\Ratesapi\\": "src/"
+        }
+    }
+}
